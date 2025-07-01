@@ -35,8 +35,8 @@ To run this program, the following Python libraries must be installed. You can i
 First, clone or download this repository to a desired location on your computer. In a terminal, enter the following commands. (You will need to change the URL to your actual GitHub repository address.)
 
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/unblindness/oct_alignment.git
+cd oct_alignment
 ```
 
 ### Step 2: Create & Activate Virtual Environment
@@ -101,7 +101,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## 📄 License
 
-This project is licensed under the [Input License Name Here, e.g., MIT License]. See the `LICENSE` file for details.
+This project is licensed under the MIT License. See the `LICENSE` file for details.
 
 ## 📚 Citation
 

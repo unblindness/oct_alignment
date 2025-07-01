@@ -34,7 +34,7 @@ To run this program, the following Python libraries must be installed. You can i
 
 ### Step 1: Clone Repository
 
-First, clone or download this repository to a desired location on your computer. In a terminal, enter the following commands. (You will need to change the URL to your actual GitHub repository address.)
+First, clone or download this repository to a desired location on your computer. In a terminal, enter the following commands. 
 
 ```bash
 git clone https://github.com/unblindness/oct_alignment.git

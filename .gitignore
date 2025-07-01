@@ -36,3 +36,5 @@ MANIFEST
 venv/
 env/
 .env
+
+.DS_Store

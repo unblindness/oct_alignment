@@ -16,6 +16,8 @@ This program is a Graphical User Interface (GUI) application designed to load, a
 
 ## Requirements
 
+**Python Version**: Python 3.11 is recommended for optimal compatibility.
+
 To run this program, the following Python libraries must be installed. You can install all of them at once using the `requirements.txt` file.
 
 | Library | Description |
@@ -35,8 +37,8 @@ To run this program, the following Python libraries must be installed. You can i
 First, clone or download this repository to a desired location on your computer. In a terminal, enter the following commands. (You will need to change the URL to your actual GitHub repository address.)
 
 ```bash
-git clone https://github.com/unblindness/oct_alignment.git
-cd oct_alignment
+git clone https://github.com/your-username/your-repo-name.git
+cd your-repo-name
 ```
 
 ### Step 2: Create & Activate Virtual Environment
@@ -71,6 +73,12 @@ Once all libraries are installed, run the following command to start the GUI pro
 python main.py
 ```
 
+**Alternative for PyCharm or other IDEs**: 
+1. Open the project folder in your preferred Python IDE (PyCharm, VSCode, etc.)
+2. Make sure you're using **Python 3.11** (recommended version)
+3. Install the required libraries from `requirements.txt` through your IDE's package manager or terminal
+4. Run `main.py` directly from the IDE interface
+
 If successful, the **"OCT Volume Alignment Tool"** window will appear on your screen.
 
 ## How to Use
@@ -101,7 +109,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## 📄 License
 
-This project is licensed under the MIT License. See the `LICENSE` file for details.
+This project is licensed under the [Input License Name Here, e.g., MIT License]. See the `LICENSE` file for details.
 
 ## 📚 Citation
 

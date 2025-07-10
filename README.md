@@ -99,9 +99,13 @@ If successful, the **"OCT Volume Alignment Tool"** window will appear on your sc
      - `.png` images comparing the pre- and post-alignment results
      - Plots of the B-scan displacements for visual quality check of the alignment
 
-## 📸 Screenshots
+## 📹 Video Tutorial
 
-> Add screenshots of your GUI application here
+Watch the complete step-by-step tutorial on how to use the OCT Volume Alignment Tool:
+
+[![OCT Volume Alignment Tool Tutorial](https://img.youtube.com/vi/Hb_oKiLLaqc/maxresdefault.jpg)](https://youtu.be/Hb_oKiLLaqc)
+
+*Click the image above to watch the video tutorial on YouTube*
 
 ## 🤝 Contributing
 
@@ -116,7 +120,8 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 If you use this code in your research, please cite the following paper:
 
 ```bibtex
-[Paste your BibTeX or other citation information for your paper here]
+Cellular-resolution OCT reveals layer-specific retinal mosaics and ganglion cell degeneration in vivo (under review)
+by Taehoon Kim, Robby Weimer, Justin Elstrott
 ```
 
 ---

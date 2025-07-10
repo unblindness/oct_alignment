@@ -103,7 +103,9 @@ If successful, the **"OCT Volume Alignment Tool"** window will appear on your sc
 
 Watch the complete step-by-step tutorial on how to use the OCT Volume Alignment Tool:
 
-[![OCT Volume Alignment Tool Tutorial](https://img.youtube.com/vi/Hb_oKiLLaqc/maxresdefault.jpg)](https://youtu.be/Hb_oKiLLaqc)
+<a href="https://youtu.be/Hb_oKiLLaqc" target="_blank">
+  <img src="https://play-lh.googleusercontent.com/76AjYITcB0dI0sFqdQjNgXQxRMlDIswbp0BAU_O5Oob-73b6cqKggVlAiNXQAW5Bl1g=w600-h300-pc0xffffff-pd" alt="OCT Volume Alignment Tool Tutorial" width="600"/>
+</a>
 
 *Click the image above to watch the video tutorial on YouTube*
 

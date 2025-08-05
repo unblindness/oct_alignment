@@ -109,10 +109,6 @@ Watch the complete step-by-step tutorial on how to use the OCT Volume Alignment 
 
 *Click the image above to watch the video tutorial on YouTube*
 
-## 🤝 Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
 ## 📄 License
 
 This project is licensed under the MIT License. See the `LICENSE` file for details.
@@ -122,9 +118,15 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 If you use this code in your research, please cite the following paper:
 
 ```bibtex
-Cellular-resolution OCT reveals layer-specific retinal mosaics and ganglion cell degeneration in vivo (under review)
-by Taehoon Kim, Robby Weimer, Justin Elstrott
+Cellular-resolution OCT reveals layer-specific retinal mosaics and ganglion cell degeneration in mouse retina in vivo
+Tae-Hoon Kim, Robby Weimer, Justin Elstrott
+bioRxiv 2025.08.01.668001; doi: https://doi.org/10.1101/2025.08.01.668001
 ```
+## 👨‍💻 Developer
+
+This tool was developed by **Taehoon Kim**. You can find more information or connect via LinkedIn.
+
+* **LinkedIn:** [Visit Profile](www.linkedin.com/in/tahkim)
 
 ---
 

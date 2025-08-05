@@ -115,7 +115,7 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 
 ## 📚 Citation
 
-If you use this code in your research, please cite the following paper:
+If you use this code in your research, please cite the following [paper](https://doi.org/10.1101/2025.08.01.668001):
 
 ```bibtex
 Cellular-resolution OCT reveals layer-specific retinal mosaics and ganglion cell degeneration in mouse retina in vivo
@@ -126,7 +126,7 @@ bioRxiv 2025.08.01.668001; doi: https://doi.org/10.1101/2025.08.01.668001
 
 This tool was developed by **Taehoon Kim**. You can find more information or connect via LinkedIn.
 
-* **LinkedIn:** [Visit Profile](www.linkedin.com/in/tahkim)
+* **LinkedIn:** [Visit Profile](http://www.linkedin.com/in/tahkim)
 
 ---
 
